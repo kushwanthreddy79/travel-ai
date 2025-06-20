@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     A[Client (Web/App)]
     B[API Gateway / Backend]
@@ -34,4 +33,3 @@ graph TD
     C --> H
     C --> I
     C --> J
-```
